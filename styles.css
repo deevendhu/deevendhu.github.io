@@ -1,0 +1,8 @@
+body {
+    background: linear-gradient(to bottom, lightblue, cyan);
+    background-size: contain;
+}
+#name {
+    text-align: center;
+    font-family: calibri;
+}
